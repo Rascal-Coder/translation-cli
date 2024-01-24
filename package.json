@@ -1,6 +1,6 @@
 {
   "name": "@rascoder/translation",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "a translation cli",
   "bin": {
     "ts": "./bin/cli.js"
