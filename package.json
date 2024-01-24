@@ -1,5 +1,5 @@
 {
-  "name": "@ras/translation",
+  "name": "@rascoder/translation",
   "version": "0.0.1",
   "description": "a translation cli",
   "bin": {

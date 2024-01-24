@@ -1,4 +1,4 @@
-# @ras/translation
+# @rascoder/translation
 
 一个在终端上翻译的工具，支持有道翻译和 DeepL 翻译。
 
