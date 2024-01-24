@@ -2,6 +2,9 @@
   "name": "@ras/translation",
   "version": "0.0.0",
   "description": "a translation cli",
+  "bin": {
+    "ts": "./bin/cli.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
