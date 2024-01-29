@@ -7,7 +7,7 @@
 ## 安装-Install
 
 ```
-npm i @ras/translation -g
+npm i @rascoder/translation -g
 ```
 
 ## 使用-Usage
